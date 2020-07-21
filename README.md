@@ -29,7 +29,8 @@ Open *.py file and edit some fields, replace with you IP, user\password
 Time to run MUHAHA
 
 systemctl enable ibm-mb-svc
-systemc start ibm-mb-svc
+
+systemctl start ibm-mb-svc
 
 Open u zabbix and go out
 
