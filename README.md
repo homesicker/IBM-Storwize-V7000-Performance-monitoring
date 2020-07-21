@@ -19,10 +19,14 @@ Lets go next
 Install python3 on you zabbix server
 
 and install this:
+
 pip3 install selenium
+
 pip3 install py-zabbix
 
 Place IOPS_*.py, MBS_*.py and run_as_service.sh somewhere like /opt/ibm
+
+Note: Edit run_as_service.sh, create run_as_service.sh for each *.py file
 
 Create service vi /etc/systemd/system/ibm-mb-svc.service, and copy paste text in ibm-svc-mb.service
 
