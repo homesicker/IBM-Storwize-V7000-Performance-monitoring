@@ -1,0 +1,9 @@
+[Unit]
+Description=SW 2 MB
+[Service]
+ExecStart=/opt/ibm/run_sw_2_iops.sh # YOU RUN AS SERVICE SCRIPT
+User=root
+Restart=on-failure
+Type=simple
+[Install]
+WantedBy=multi-user.target
