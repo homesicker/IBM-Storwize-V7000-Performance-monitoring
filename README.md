@@ -1,5 +1,7 @@
 # IBM-Storwize-V7000-Performance-monitoring
 
+https://share.zabbix.com/storage-devices/ibm/ibm-storwize-v7000
+
 Download jre-8u261, just google it
 
 Download Selenium https://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.59.jar
