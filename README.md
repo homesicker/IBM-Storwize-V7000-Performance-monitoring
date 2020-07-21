@@ -25,6 +25,7 @@ pip3 install py-zabbix
 Place IOPS_*.py, MBS_*.py and run_as_service.sh somewhere like /opt/ibm
 
 Create service vi /etc/systemd/system/ibm-mb-svc.service, and copy paste text in ibm-svc-mb.service
+
 Note: Create service each *.py script
 
 Import zabbix template zbx_ibm_sw7k.xml
