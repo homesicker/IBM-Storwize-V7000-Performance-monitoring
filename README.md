@@ -38,6 +38,8 @@ Note: Create service each *.py script
 
 Import zabbix template zbx_ibm_sw7k.xml
 
+Create host in zabbix, and replace hostname in .py files with you hostname
+
 Open *.py file and edit some fields, replace with you IP, user\password
 
 Time to run MUHAHA
