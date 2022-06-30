@@ -1,4 +1,8 @@
-# IBM-Storwize-V7000-Performance-monitoring
+# New version coming soon, just wait. there will be a normal instruction and more supported versions
+
+
+
+# old instruction:
 
 https://share.zabbix.com/storage-devices/ibm/ibm-storwize-v7000
 
